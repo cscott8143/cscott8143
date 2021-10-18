@@ -1,0 +1,43 @@
+form {
+text-align: center;
+position: fixed;
+top: 50%;
+left: 41%;
+}
+img {
+
+              width: 70%;
+              margin-left: 15%;
+              margin-top: 5%;
+}
+.img {
+
+  text-align: right;
+  position: fixed;
+  top: 2%;
+  left: 87%;
+}
+.adv {
+  text-align: right;
+  position: fixed;
+  top: 6%;
+  left: 87%;
+
+}
+#ip2 {
+  border-radius: 25px;
+   border: 1px solid #0;
+   padding: 15px;
+   width: 300px;
+   height: 15px;
+   position:relative; right: 100px;
+ }
+ #ip3{
+   position:relative; right: 180px;
+   position:relative; top: 30px;
+ }
+#ip4{
+position:relative; top: 31px;
+position: relative; left: 0px;
+
+}

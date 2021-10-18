@@ -1,0 +1,62 @@
+.class {
+padding-top: 0%;
+margin-left: 50%;
+margin-bottom: 10%;
+  margin-top: 5%;
+position:relative; bottom: 70px;
+}
+.tow{
+padding-top: 0%;
+  margin-left: 50%;
+  margin-bottom: 10%;
+    margin-top: 5%;
+    position:relative; bottom: 75px;
+}
+.howard{
+
+padding-top: 0%;
+  margin-left: 50%;
+  margin-top: 0;
+    margin-bottom: 0%;
+    position:relative; bottom: 55px;
+}
+.rower{
+
+padding-top: 0%;
+  margin-left: 50%;
+  margin-bottom: 0%;
+  margin-top: 5%;
+  position:relative; bottom: 60px;
+}
+
+div {
+padding-top: 2%;
+margin-top: 0%;
+text-align: left;
+}
+h1, h2, h4 {
+padding-top: 1%;
+font-family: arial;
+}
+img {
+
+              width: 10%;
+
+}
+a{
+  text-align: right;
+  position: fixed;
+  top: 2%;
+  left: 83%;
+}
+#ip2 {
+  border-radius: 25px;
+   border: 1px solid #0;
+   padding: 15px;
+   width: 300px;
+   height: 15px;
+   position:relative; right: 100px;
+}
+#ip3{
+  position:relative; right: 40px;
+}
