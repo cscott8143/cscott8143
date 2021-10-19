@@ -9,6 +9,8 @@ img {
               width: 70%;
               margin-left: 15%;
               margin-top: 2%;
+  position:relative; right: 180px;
+   position:relative; top: 30px;
 }
 .img {
 
